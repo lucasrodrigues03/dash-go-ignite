@@ -26,7 +26,9 @@ O dashgo foi desenvolvido no curso do ignite da rocketseat com intenção de uti
 
 ## 🔖 Layout
 <p align="center">
-![logindashgo](https://user-images.githubusercontent.com/86750985/182460912-ba9dec97-cb94-48cd-a420-8bd1217ab6e8.png)
+<img align="center">
+  ![logindashgo](https://user-images.githubusercontent.com/86750985/182460912-ba9dec97-cb94-48cd-a420-8bd1217ab6e8.png)
+  </img>
 </P>
 
 
