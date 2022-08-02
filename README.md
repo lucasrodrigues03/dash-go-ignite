@@ -6,6 +6,11 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
+<p align="center">
+
+  <img alt="dashgo" src="https://user-images.githubusercontent.com/86750985/182461962-69ab51c4-4eb2-446e-81e3-b8ed1651194e.png" width="100%">
+</p>
+
 
 ## 🚀 Tecnologias
 
@@ -25,11 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O dashgo foi desenvolvido no curso do ignite da rocketseat com intenção de utilizar  as ferramentas Chakra UI para estilização de componentes com interface declarativa e React Query para fetch dos dados para melhor experiência do usuário.
 
 ## 🔖 Layout
-<p align="center">
-<img align="center">
-  ![logindashgo](https://user-images.githubusercontent.com/86750985/182460912-ba9dec97-cb94-48cd-a420-8bd1217ab6e8.png)
-  </img>
-</P>
+
 
 
 
